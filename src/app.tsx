@@ -27,11 +27,11 @@ const App: FC = () => {
                 <AntdApp>
                     <div className={$styles.app}>
                         <div className={$styles.container}>
-                            欢迎来到3R教室，这是<span>React课程第一节</span>
+                            欢迎来到我的地盘
                             <Button
                                 type="primary"
                                 className="!bg-lime-400 !text-emerald-900"
-                                href="https://pincman.com/3r"
+                                href="https://google.com"
                                 target="_blank"
                             >
                                 点此打开
